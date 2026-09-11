@@ -2,6 +2,9 @@
 name = "typepy_prelude"
 version = "0.1.0"
 requires-python = ">=3.12"
+dependencies = [
+    "result>=0.17.0",
+]
 
 [build-system]
 requires = ["hatchling"]
