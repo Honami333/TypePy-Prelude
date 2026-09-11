@@ -1,4 +1,4 @@
-from .option import Option
+from .option import Option, Some
 # Проверки
 from .option import is_some, is_none
 # Извлечение значения
